@@ -1,3 +1,3 @@
-# Getting Started React App
+#  Started React App
 
 React Başlangıç paketleri
